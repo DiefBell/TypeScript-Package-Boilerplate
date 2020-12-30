@@ -1,0 +1,5 @@
+{
+    "watch": [ "src" ],
+    "ext": "ts",
+    "exec": "tsc --project tsconfig.json && yarn run bundle-declarations"
+  }
