@@ -21,7 +21,7 @@ This is a boilerplate for a TypeScript NodeJS library. It uses the [Yarn](https:
 	- description
 	- repository
 	- author
-	- license (if you change this then you'll also need to replace the `LINCENSE.txt` file).
+	- license (if you change this then you'll also need to replace the `LICENSE.txt` file).
 	- keywords
 4. Run `yarn install` to download all default dependencies.
 5. Go edit `tslint.json` to match your personal preferences.
